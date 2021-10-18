@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # rails_tutorial_test_2
+https://obscure-ravine-71409.herokuapp.com/
